@@ -1,5 +1,5 @@
 package com.example.foodcatapplication;
-import android.content.ClipData;
+
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
@@ -51,10 +51,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 // Обновление базы данных (если необходимо)
     }
 
-   public ClipData.Item getItem(long itemId) {
-
-       return null;
-   }
 
 
     public DataItem getDataItemById(long itemId) {
