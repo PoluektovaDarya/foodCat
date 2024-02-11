@@ -20,7 +20,8 @@ p.s. работать приложение может только на моби
 - дневной рацион.
 Вот как это выглядит в самом приложении:
 
-![image](https://github.com/PoluektovaDarya/foodCat/assets/123874713/91ea91f3-441f-49ac-81dd-5d4004f2b740)
+![image](https://github.com/PoluektovaDarya/foodCat/assets/123874713/75bf3485-8026-4ae7-a4ba-915253bbdbce)
+
 
 ## Авторы
 - *~~Полина Полуэктова~~*
